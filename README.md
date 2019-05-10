@@ -1,6 +1,6 @@
 # flutter_create_contest
 
-Flutter create contest application submitted by Amol Gangadhare and Gaurav Chafe.
+Flutter create contest application submitted by Amol Gangadhare and [@Gaurav Chafe](https://github.com/gauravchafe).
 
 ## Getting Started
 
