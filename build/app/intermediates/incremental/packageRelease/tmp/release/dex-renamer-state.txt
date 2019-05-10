@@ -1,0 +1,4 @@
+#Tue Apr 09 10:57:00 IST 2019
+base.0=/Volumes/MyData/Projects/flutter_create_contest/build/app/intermediates/transforms/dexMerger/release/0
+path.0=classes.dex
+renamed.0=classes.dex
